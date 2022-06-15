@@ -1,6 +1,6 @@
 ## 💰 Links com node
 
-### Aplicação que permite você adicionar links no site,editar esses links ou até apagar os mesmos. Todo link fica salvo no banco de dados
+### Aplicação que permite você adicionar links no site e dar título e descricão a esses links como se fosse uma postagem o sistema te permite editar esses links ou até apagar os mesmos. Todo link fica salvo no banco de dados
 
 ## 🖥️ Algumas Telas Do Projeto
 
