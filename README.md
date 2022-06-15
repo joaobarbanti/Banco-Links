@@ -4,9 +4,9 @@
 
 ## 🖥️ Algumas Telas Do Projeto
 
-<img align="center" src="git.png">
-<img align="center" src="git 2.png">
-
+<img align="center" src="11.png">
+<img align="center" src="12.png">
+<img align="center" src="13.png">
 ## 💻 Tecnologias Usadas
 <div style="display: inline_block"><br/>
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
