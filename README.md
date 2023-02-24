@@ -1,12 +1,8 @@
-## 💰 Links com node
+## 💰 Banco de Links
 
-### Aplicação que permite você adicionar links no site e dar título e descricão a esses links como se fosse uma postagem o sistema te permite editar esses links ou até apagar os mesmos. Todo link fica salvo no banco de dados
+### Aplicação que permite você adicionar links no site e dar título e descricão a esses links como se fosse uma postagem o sistema te permite editar esses links ou até apagar os mesmos. Utilizei Banco de Dados MongoDb e a ferramenta NodeJs para o código
 
-## 🖥️ Algumas Telas Do Projeto
 
-<img align="center" src="11.png">
-<img align="center" src="12.png">
-<img align="center" src="13.png">
 
 ## 💻 Tecnologias Usadas
 <div style="display: inline_block"><br/>
@@ -19,7 +15,7 @@
 
 #### Clone o Projeto Com: </br>
 
-git clone https://github.com/JoaoRicardo2005/links-com-mongo
+git clone https://github.com/JoaoRicardo2005/Banco-Links
 #### Entre na pasta e instale as dependências com: 
  Yarn
 #### Com tudo correto você pode iniciar o servidor com:
